@@ -1,0 +1,5 @@
+/obj
+/bin
+*.obj
+### Ignore all future changes to .vscode folder except for the checked in ones
+/.vscode
